@@ -1,12 +1,14 @@
-# React + Vite
+Project overview:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was to build an e-commerce product listing app using react.
+The project was to reinforce React components, props, and state by designing a layout without using frameworks.
 
-Currently, two official plugins are available:
+The project taught me about component hierarchy(parent,child), how to use state to hold an array of products, how to pass props to a component, and how to iterate over products using .map().
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The task was to display product details like name, price and description (bonus if we added a category).
+I used props to recieve data and render it dynamically.
 
-## Expanding the ESLint configuration
+I used CSS to syle the page to make it more visually appealing and give it that polished look.
+This project was a lot of run and im looking forward to learning more with React!
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
